@@ -1,43 +1,64 @@
-[
-    {
+[{
         "id": "1",
-        "head": "Oferta1",
-        "backgroundString": "./././assets/images/example300x300.jpg",
-        "shortContent": "111111",
-        "longcontent": "111111111111111111111111",
-        "path":"./././assets/json/offers/firstOffer.json"
+        "tag": "HOT",
+        "head": "POWER LATINO",
+        "backgroundString": "././assets/images/latinoPower.png",
+        "shortContent": "Dla Pań",
+        "longcontent": "Zajęcia taneczne przeznaczone dla Pań",
+        "path": "./././assets/json/offers/LatinoPowerOffer.json"
     },
     {
         "id": "2",
+        "tag": "HOT",
         "head": "Oferta1",
-        "backgroundString": "../images/example300x300.jpg",
+        "backgroundString": "https://placeimg.com/640/480/any",
         "shortContent": "111111",
         "longcontent": "111111111111111111111111",
-        "path":""
+        "path": ""
     },
     {
         "id": "3",
+        "tag": "HOT",
         "head": "Oferta1",
-        "backgroundString": "../images/example300x300.jpg",
+        "backgroundString": "https://placeimg.com/640/480/any",
         "shortContent": "111111",
         "longcontent": "111111111111111111111111",
-        "path":""
+        "path": ""
     },
     {
-        "id": "1",
+        "id": "4",
+        "tag": "HOT",
         "head": "Oferta1",
-        "backgroundString": "../images/example300x300.jpg",
+        "backgroundString": "https://placeimg.com/640/480/any",
         "shortContent": "111111",
         "longcontent": "111111111111111111111111",
-        "path":""
+        "path": ""
     },
     {
-        "id": "1",
+        "id": "5",
+        "tag": "HOT",
         "head": "Oferta1",
-        "backgroundString": "../images/example300x300.jpg",
+        "backgroundString": "https://placeimg.com/640/480/any",
         "shortContent": "111111",
         "longcontent": "111111111111111111111111",
-        "path":""
+        "path": ""
+    },
+    {
+        "id": "6",
+        "tag": "HOT",
+        "head": "Oferta1",
+        "backgroundString": "https://placeimg.com/640/480/any",
+        "shortContent": "111111",
+        "longcontent": "111111111111111111111111",
+        "path": ""
+    },
+    {
+        "id": "7",
+        "tag": "HOT",
+        "head": "Oferta1",
+        "backgroundString": "https://placeimg.com/640/480/any",
+        "shortContent": "111111",
+        "longcontent": "111111111111111111111111",
+        "path": ""
     }
 ]
-    
