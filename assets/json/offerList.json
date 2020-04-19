@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "head": "Oferta1",
+        "backgroundString": "./././assets/images/example300x300.jpg",
+        "shortContent": "111111",
+        "longcontent": "111111111111111111111111",
+        "path":"./././assets/json/offers/firstOffer.json"
+    },
+    {
+        "id": "2",
+        "head": "Oferta1",
+        "backgroundString": "../images/example300x300.jpg",
+        "shortContent": "111111",
+        "longcontent": "111111111111111111111111",
+        "path":""
+    },
+    {
+        "id": "3",
+        "head": "Oferta1",
+        "backgroundString": "../images/example300x300.jpg",
+        "shortContent": "111111",
+        "longcontent": "111111111111111111111111",
+        "path":""
+    },
+    {
+        "id": "1",
+        "head": "Oferta1",
+        "backgroundString": "../images/example300x300.jpg",
+        "shortContent": "111111",
+        "longcontent": "111111111111111111111111",
+        "path":""
+    },
+    {
+        "id": "1",
+        "head": "Oferta1",
+        "backgroundString": "../images/example300x300.jpg",
+        "shortContent": "111111",
+        "longcontent": "111111111111111111111111",
+        "path":""
+    }
+]
+    

@@ -1,0 +1,57 @@
+{
+    "offerName": "Oferta1",
+    "offerBody": [
+        {
+            "head": "Lorem ipsum dolor",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "head": "Lorem ipsum dolor",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ],
+    "offerComments": {
+        "head": "Lorem ipsum dolor",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "offerCalendar": [
+        {
+            "time": "18:00 - 19:00",
+            "monday": "Lorem ipsum",
+            "tuesday": "",
+            "wednesday": "Lorem ipsum",
+            "thursday": "",
+            "friday": "Lorem ipsum",
+            "adress": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "time": "18:00 - 19:00",
+            "monday": "Lorem ipsum",
+            "tuesday": "",
+            "wednesday": "Lorem ipsum",
+            "thursday": "",
+            "friday": "Lorem ipsum",
+            "adress": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "time": "18:00 - 19:00",
+            "monday": "Lorem ipsum",
+            "tuesday": "",
+            "wednesday": "Lorem ipsum",
+            "thursday": "",
+            "friday": "Lorem ipsum",
+            "adress": "Lorem ipsum dolor sit amet"
+        }
+    ],
+    "offerImages": [
+        {
+            "src": "././assets/images/example300x300.jpg"
+        },
+        {
+            "src": "././assets/images/example300x300.jpg"
+        },
+        {
+            "src": "././assets/images/example300x300.jpg"
+        }
+    ]
+}
