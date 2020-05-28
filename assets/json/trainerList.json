@@ -1,4 +1,5 @@
 [{
+        "id": "gantosz",
         "fullname": "Grzegorz Antosz",
         "title": "Treneiro",
         "smallbackgroundString": "././assets/images/team/g_antosz_small.jpg",
@@ -9,6 +10,7 @@
         "foto": []
     },
     {
+        "id": "dantosz",
         "fullname": "Danuta Antosz",
         "title": "Treneiro",
         "smallbackgroundString": "././assets/images/team/d_antosz_small.jpg",
@@ -31,6 +33,7 @@
         ]
     },
     {
+        "id": "jwarszylewicz",
         "fullname": "Joanna Warszylewicz",
         "title": "Trenejro",
         "smallbackgroundString": "././assets/images/team/j_warszylewicz_small.jpg",
@@ -41,6 +44,7 @@
         "foto": []
     },
     {
+        "id": "owika",
         "fullname": "Oliwia Wika",
         "title": "Trenejro",
         "smallbackgroundString": "././assets/images/team/o_wika_small.jpg",
