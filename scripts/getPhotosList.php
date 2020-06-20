@@ -14,12 +14,18 @@ if (is_dir($prefix.$dir))
           if ($file != '.' && $file != '..') 
           {
               $response[] = array( 
-                  'src' => str_replace(' ', '%20','./././'.$dir.'/'.$file)
+                  'src' => str_replace(' ', '%20','./././'.$dir.'/'.$file),
+                  'show'=> 'false'
               );
           }
         }
         closedir($dh);
     }
 }
+
+header('Access-Control-Allow-Origin: *');
+$fp = fopen($prefix.'assets/json/gallery/getPhotosList_'.$_GET['name'].'.json', 'w');
+fwrite($fp, json_encode($response,true));
+fclose($fp);
 echo json_encode($response);
 ?>
