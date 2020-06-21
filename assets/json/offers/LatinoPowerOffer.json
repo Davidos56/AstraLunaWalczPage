@@ -11,11 +11,15 @@
         {
             "head": "CENA",
             "content": "Cena kursu  – 100 zł/m-c –  ROZPOCZĘŁY SIĘ ZAPISY NA LISTĘ REZERWOWĄ TELEFONICZNIE POD NR TEL. 609 700 720 LUB MAILOWO struga@astra.szczecin.pl"
+        },
+        {
+            "head": "CENAqwe",
+            "content": "Cena kursu  – 100 zł/m-c –  ROZPOCZĘŁY SIĘ ZAPISY NA LISTĘ REZERWOWĄ TELEFONICZNIE POD NR TEL. 609 700 720 LUB MAILOWO struga@astra.szczecin.pl"
         }
     ],
     "offerComments": {
-        "head": "Lorem ipsum dolor",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "head": "Zmiana czegoś tam",
+        "content": "Jakaś zmiana"
     },
     "offerCalendar": [{
             "time": "18:00 - 19:00",
@@ -34,9 +38,27 @@
             "thursday": "ST”AstraLuna”",
             "friday": "",
             "adress": "ST”AstraLuna”, ul. Nietruga 7"
+        },
+        {
+            "time": "17:00 - 18:00",
+            "monday": "",
+            "tuesday": "ST”AstraLuna”",
+            "wednesday": "",
+            "thursday": "ST”AstraLuna”",
+            "friday": "",
+            "adress": "ST”AstraLuna”, ul. Nietruga 7"
         }
     ],
     "offerImages": [{
+            "src": "././assets/images/example300x300.jpg"
+        },
+        {
+            "src": "././assets/images/example300x300.jpg"
+        },
+        {
+            "src": "././assets/images/example300x300.jpg"
+        },
+        {
             "src": "././assets/images/example300x300.jpg"
         },
         {
