@@ -1,0 +1,24 @@
+{
+    "offerName": "MINI LADY SHOW",
+    "offerBody": [{
+            "head": "Zajęcia",
+            "content": "Tworzymy formacje dla: dziewczynek m\u0142odszych, starszych i m\u0142odzie\u017Cy. W tym sezonie b\u0119dziemy skupia\u0107 si\u0119 na ta\u0144cach latynoameryka\u0144skich oraz karaibskich. Obowi\u0105zkowo wymagamy du\u017Cej ilo\u015Bci energii, systematyczno\u015Bci oraz ch\u0119ci do rozwoju indywidualnego i pracy w grupie!"
+        },
+        {
+            "head": "Cele",
+            "content": "Celem formacji “MINI LADY SHOW” będzie reprezentowanie Szkoły Tańca „ASTRA LUNA”\r\nna pokazach w swoich rodzimych miastach,\r\nna turniejach, mistrzostwach w Polsce i poza jaj granicami.\t\r\n\nCelem pracy w tej grupie jest:\r\n- promowanie i popularyzacja ta\u0144ca solowego w\u015Br\u00F3d dziewczynek,\r\n- nauka pracy zespo\u0142owej opartej na zasadach szacunku i kole\u017Ce\u0144stwa,\r\n- integracja mi\u0119dzypokoleniowa,\r\n- odkrywanie swoich pasji,\r\n- nauka dobrych manier,\r\n- promowanie ta\u0144ca jako fantastycznego sposobu na \u017Cycie,\r\n- kszta\u0142towanie takich cech charakteru jak cierpliwo\u015B\u0107 i zdyscyplinowanie,\r\n- dba\u0142o\u015Bci o wizerunek i str\u00F3j w ka\u017Cdej sytuacji np. trening, pokaz,\r\n- nauka podstawowych \u0107wicze\u0144 wspieraj\u0105cych prawid\u0142ow\u0105 postaw\u0119 cia\u0142a i estetyk\u0119 ruchu cia\u0142a do muzyki."
+        },
+        {
+            "head": "Kogo przyjmujemy",
+            "content": "Do grupy \u201CMINI LADY SHOW\u201D przyjmujemy dziewczynki w wieku:\r\n- Mini Kids II 6-7 lat\r\n- Juveniles I 8-9 lat\r\n- Juveniles II 10-11 lat\r\n- Junior I 12-13 lat\r\n- Junior II 14-15 lat\r\n- Youth I 16-17 lat\r\n- Youth II 18-20 lat"
+        }
+    ],
+    "offerComments": {
+        "head": "Lorem ipsum dolor",
+        "content": ""
+    },
+    "offerCalendar": [],
+    "offerImages": [{
+        "src": "././assets/images/offers/MINI_LADY_SHOW.jpg"
+    }]
+}
