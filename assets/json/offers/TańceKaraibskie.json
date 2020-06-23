@@ -1,0 +1,15 @@
+{
+    "offerName": "TAŃCE KARAIBSKIE",
+    "offerBody": [{
+        "head": "Zajęcia",
+        "content": "Kobiecość i pewność siebie poprzez taniec. Serdecznie zapraszamy na kurs TAŃCÓW KARAIBSKICH takich jak bachata, salsa i kizomba. Zajęcia kierowane są dla kobiet, które pragną odkryć swoje ciało w sensualnej kobiecej przestrzeni, ucząc się zmysłowego poruszania się na parkiecie. Podczas treningów pomożemy wyzwolić czarującą i kobiecą stronę ciała w gorących rytmach karaibskich."
+    }],
+    "offerComments": {
+        "head": "Lorem ipsum dolor",
+        "content": ""
+    },
+    "offerCalendar": [],
+    "offerImages": [{
+        "src": "././assets/images/offers/TAŃCE_KARAIBSKIE.jpg"
+    }]
+}

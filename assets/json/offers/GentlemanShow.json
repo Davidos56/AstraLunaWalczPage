@@ -1,0 +1,20 @@
+{
+    "offerName": "GENTLEMAN SHOW",
+    "offerBody": [{
+            "head": "Zajęcia",
+            "content": "Pomagają w zdobyciu pewności siebie i nabraniu odwagi do tańca.\r\nPomagają nauczyć się podstawowych figur tańców: standardowych, latynoamerykańskich, karaibskich. Nauczą zasad prawidłowego i bez wysiłkowego prowadzenia partnerki w tańcu. Tu nabierzecie odpowiedniej sylwetki, koordynacji oraz poczucia rytmu. Poprawisz codzienną postawę, wzmocnisz mięśnie. Zyskasz dużo większą świadomość własnego ciała. Taniec stanie się dla Ciebie naturalny i przyjemny. Poznasz wspaniałe grono ludzi, którzy Cię rozumieją. Zyskasz możliwość zdobywania wiedzy na warsztatach tanecznych. Możliwość udziału w pokazach i startach na różnego rodzaju turniejach i mistrzostwach. Większość mężczyzn myśli, że taniec nie jest dla nich i w ogóle to oni nie lubią tańczyć. Wszystko to najzwyczajniej w świecie jest spowodowane brakiem pewności siebie."
+        },
+        {
+            "head": "Po co Panom te zajęcia?",
+            "content": "Panowie!!! Poniewa\u017C kobiety uwielbiaj\u0105 ta\u0144czy\u0107 a my kochamy kobiety, prosta matematyka!!!\r\nTaniec jest dla prawdziwych m\u0119\u017Cczyzn.\r\nTaniec to prawdziwie m\u0119ska rzecz.\r\nZaufaj nam a podzi\u0119kujesz sobie, \u017Ce da\u0142e\u015B si\u0119 nam\u00F3wi\u0107."
+        }
+    ],
+    "offerComments": {
+        "head": "Lorem ipsum dolor",
+        "content": ""
+    },
+    "offerCalendar": [],
+    "offerImages": [{
+        "src": "././assets/images/offers/GENTLEMAN_SHOW.jpg"
+    }]
+}

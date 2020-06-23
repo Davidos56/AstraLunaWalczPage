@@ -1,0 +1,15 @@
+{
+    "offerName": "LADY SHOW",
+    "offerBody": [{
+        "head": "Zajęcia",
+        "content": "\u201ELADY SHOW\u201D\u00A0to propozycja wybranych ta\u0144c\u00F3w latynoameryka\u0144skich. Jest to ogromna dawka ruchu, oparta na \u015Bwiatowym programie krok\u00F3w ta\u0144ca towarzyskiego po\u0142\u0105czona ze \u015Bwietn\u0105 zabaw\u0105.\r\nTrening wprowadza Nas w gor\u0105ce klimaty ta\u0144c\u00F3w latynoameryka\u0144skich. Na naszych zaj\u0119ciach w przyjemny spos\u00F3b spalamy kalorie i dobrze si\u0119 bawimy, dbamy nie tylko o pi\u0119kn\u0105 sylwetk\u0119, gracj\u0119 w ta\u0144cu, zyskujemy r\u00F3wnie\u017C \u015Bwiadomo\u015B\u0107 swojego cia\u0142a, wyra\u017Cania swoich emocji oraz dodajemy odwagi w urzeczywistnianiu swoich marze\u0144. Zaj\u0119cia te maj\u0105 walory terapeutyczne dla ka\u017Cdej kobiety, kt\u00F3ra chce odkrywa\u0107 si\u0119 na nowo i z pe\u0142nym szacunkiem zaakceptowa\u0107 swoje indywidualne pi\u0119kno. Uczymy si\u0119 podstawowych krok\u00F3w cha \u2013chy, samby, rumby, passo doble i jiva oraz tworzymy r\u00F3\u017Cnorodne choreografie z ich wykorzystaniem."
+    }],
+    "offerComments": {
+        "head": "Lorem ipsum dolor",
+        "content": ""
+    },
+    "offerCalendar": [],
+    "offerImages": [{
+        "src": "././assets/images/offers/LADY_SHOW.jpg"
+    }]
+}

@@ -24,5 +24,68 @@
         "shortContent": "Oferta dla dzieci",
         "longcontent": "Oferta dla dziewczynek",
         "path": "./././assets/json/offers/MiniLadyShow.json"
+    },
+    {
+        "id": "lady_show",
+        "tag": "LADYS",
+        "head": "LADY SHOW",
+        "backgroundString": "././assets/images/offers/LADY_SHOW.jpg",
+        "shortContent": "Oferta dla pań",
+        "longcontent": "Oferta dla kobiet",
+        "path": "./././assets/json/offers/LadyShow.json"
+    },
+    {
+        "id": "gentleman_show",
+        "tag": "MENS",
+        "head": "GENTLEMAN SHOW",
+        "backgroundString": "././assets/images/offers/GENTLEMAN_SHOW.jpg",
+        "shortContent": "Oferta dla panów",
+        "longcontent": "Oferta dla gentelmanów",
+        "path": "./././assets/json/offers/GentlemanShow.json"
+    },
+    {
+        "id": "lady_show_sport_&_gentleman_show_sport",
+        "tag": "2 IN 1",
+        "head": "LADY SHOW SPORT & GENTLEMAN SHOW SPORT",
+        "backgroundString": "././assets/images/offers/LADY_SHOW_SPORT&GENTLEMAN_SHOW_SPORT.jpg",
+        "shortContent": "Oferta dla pań i panów",
+        "longcontent": " oferta dla odważnych marzycieli",
+        "path": "./././assets/json/offers/LadyShowSport&GentlemanShowSport.json"
+    },
+    {
+        "id": "tance_karaibskie",
+        "tag": "LADYS",
+        "head": "TAŃCE KARAIBSKIE",
+        "backgroundString": "././assets/images/offers/TAŃCE_KARAIBSKIE.jpg",
+        "shortContent": "Oferta dla pań",
+        "longcontent": " oferta dla kobiet",
+        "path": "./././assets/json/offers/TańceKaraibskie.json"
+    },
+    {
+        "id": "taniec_towarzyski",
+        "tag": "All",
+        "head": "TANIEC TOWARZYSKI",
+        "backgroundString": "././assets/images/offers/TANIEC_TOWARZYSKI.jpg",
+        "shortContent": "Oferta dla dla każdego",
+        "longcontent": "Oferta dla młodzieży i dorosłych",
+        "path": "./././assets/json/offers/TaniecTowarzyski.json"
+    },
+    {
+        "id": "kursy_dla_nowożeńców",
+        "tag": "Wedding",
+        "head": "KURSY DLA NOWOŻEŃCÓW",
+        "backgroundString": "././assets/images/offers/KURSY_DLA_NOWOŻEŃCÓW.jpg",
+        "shortContent": "Oferta dla dla par",
+        "longcontent": "Oferta dla nowożeńców",
+        "path": "./././assets/json/offers/KursyDlaNowożeńców.json"
+    },
+    {
+        "id": "akademia_seniora",
+        "tag": "Senior",
+        "head": "AKADEMIA SENIORA",
+        "backgroundString": "././assets/images/offers/AKADEMIA_SENIORA.jpg",
+        "shortContent": "Oferta dla seniora",
+        "longcontent": "Oferta dla osób starszych",
+        "path": "./././assets/json/offers/AkademiaSeniora.json"
     }
 ]

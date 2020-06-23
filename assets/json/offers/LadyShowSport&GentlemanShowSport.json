@@ -1,0 +1,15 @@
+{
+    "offerName": "GENTLEMAN SHOW",
+    "offerBody": [{
+        "head": "Jaka to grupa ?",
+        "content": "Jest to grupa aktywowana podczas przygotowań do Mistrzostw Polski, Europy i Świata a także przygotowań do pokazów na różnego rodzaju imprezy."
+    }],
+    "offerComments": {
+        "head": "Lorem ipsum dolor",
+        "content": ""
+    },
+    "offerCalendar": [],
+    "offerImages": [{
+        "src": "././assets/images/offers/LADY_SHOW_SPORT&GENTLEMAN_SHOW_SPORT.jpg"
+    }]
+}
